@@ -1,0 +1,27 @@
+div{
+    color: antiquewhite;
+    max-width: fit-content;
+    
+}
+.bigger{
+    
+    font-size: larger;
+    color: black;
+    background-color: cornflowerblue;
+    padding: 4px;
+    border-radius: 5px;
+;
+}
+p.headline{
+    margin-top: 30px;
+    font-size: larger;
+    color: darkgray;
+}
+
+.year{
+    font-size: large;
+    color: #0e0e0e;
+    background-color: lightgray;
+    padding: 2px;
+    border-radius: 5px;
+}
